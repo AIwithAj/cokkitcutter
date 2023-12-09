@@ -1,0 +1,5 @@
+outs:
+- md5: 8005aede7b0f321e2bbc8c00ea9295a6
+  size: 3866782
+  hash: md5
+  path: dop.csv
